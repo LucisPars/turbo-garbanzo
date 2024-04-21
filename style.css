@@ -7,3 +7,8 @@ dsfsd {
     background-color: #f0f8ff;
     display: flex;
 }
+
+.form_input {
+    background-color: #f0f8ff;
+    text-transform: uppercase;
+}
